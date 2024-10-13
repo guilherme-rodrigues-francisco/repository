@@ -1,5 +1,9 @@
-Linus Torvalds
-Mark Zuckenberg
-Bill Gates
-Elon Musk
-Steve Jobs
+Linus Torvalds criou o Linux
+
+Mark Zuckenberg criou o Facebook
+
+Bill Gates criou o Windows
+
+Elon Musk a Starlink
+
+Steve Jobs criou o iPhone
